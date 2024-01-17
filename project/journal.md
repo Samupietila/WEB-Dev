@@ -10,11 +10,11 @@
 - item 3
 1. First item
 2. Second item
-3. Third item
-*italic Text*
-**Bold Text**
-[Link](https://google.com/)
-![Alt Text Cute Dog](https://commons.wikimedia.org/wiki/File:Cute_dog.jpg)
+3. Third item  
+*italic Text*  
+**Bold Text**  
+[Link](https://google.com/)  
+![Alt Text Cute Dog](https://commons.wikimedia.org/wiki/File:Cute_dog.jpg)  
 > "The only source of knowledge is experience." - Albert Einstein
 ```javascript
 console.log("Hello, World!");
