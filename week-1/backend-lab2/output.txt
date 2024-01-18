@@ -1,1 +1,1 @@
-Here is text:
+This is some sample data (Synchronous Write).
