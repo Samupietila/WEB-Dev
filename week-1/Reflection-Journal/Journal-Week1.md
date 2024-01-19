@@ -20,13 +20,16 @@
 * Online Resources:
 1. GitHub material provided by teacher
 2. ChatGPT, helped me understand the problem i had with the submodule.
+---
 ### Coping Strategies:
 * Academic Progress: 
 1. Made progress with constructing clear Repository to GitHub, also using and initializing Github
 * Soft Skills Development:
 1.  Felt like i was contributing a lot and felt like the whole group was doing really well.
+---
 ### Project Management:
 - Personally i liked the Scrum. It seems like really clever way to work. Before i only knew about the Waterfall.
+---
 ### Next Steps:
 * Next week goals:
 1. Start doing daily Scrums
