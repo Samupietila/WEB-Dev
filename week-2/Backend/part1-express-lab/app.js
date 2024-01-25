@@ -22,6 +22,16 @@ app.get("/htmlmessage",(req,res) => {
 </html>`;
 res.send(htmlContent)
 });
+app.get("/info",(req,res)=> {
+  const Time = new Date()
+  const info = `
+  <html>
+  <body>
+  <p>This is the time the request was received ${Time}.</p>
+  </body>
+  </html>`;
+  res.send(info)
+});
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
