@@ -1,0 +1,15 @@
+Demo 1
+
+npm init -y ,  npm i express, node server.js
+visit http://localhost:3001/
+Scripts:  npm start, npm run dev
+Stop server: ctr + c (Mac users command-c)
+
+
+npm install nodemon --save-dev
+Script: "dev": "nodemon app.js"
+Run script: npm run dev NOT npm dev
+npx vs npm
+
+
+npx create-react-app 
